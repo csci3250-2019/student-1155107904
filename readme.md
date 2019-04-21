@@ -19,4 +19,4 @@
 
 #Screen shot
 
-![screenshot] (./screenshot.png )
+![screenshot](./screenshot.png "screenshot")
