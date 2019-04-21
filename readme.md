@@ -1,4 +1,6 @@
 #Personal Information
+| | |
+|:---------------:|:---------------:|
 |Name | **Zhou Huolin** |
 |SID  | **1155107904**  |
 #Programming languages I learned
